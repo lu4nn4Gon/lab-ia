@@ -1,14 +1,15 @@
-# Lab 5 — Regressão Linear e KNN
+# Laboratórios de Inteligência Artificial
 
-Laboratório de Inteligência Artificial sobre Regressão Linear e classificação com KNN.
+Repositório destinado aos laboratórios práticos da disciplina de Inteligência Artificial.
 
-## Notebook
+## Laboratórios
 
-`lab_regressao_linear_knn.ipynb`
+### Lab 5 — Regressão Linear e KNN
 
-## Conteúdo
+**Notebook:** `lab_regressao_linear_knn.ipynb`
 
-- Regressão Linear — Água dos Alpes
-- Regressão Linear — Livros e Aulas × Notas
-- Classificação — Iris Flower com KNN
+### Lab 7 — Análise Exploratória de Dados e Feature Engineering
+
+**Notebook:** `labTitanic.ipynb`
+
 

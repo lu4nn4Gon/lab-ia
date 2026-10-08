@@ -8,7 +8,7 @@ Repositório destinado aos laboratórios práticos da disciplina de Inteligênci
 
 **Notebook:** `lab_regressao_linear_knn.ipynb`
 
-### Lab 7 — Análise Exploratória de Dados e Feature Engineering
+### Lab 7 — EDA e Feature Engieering
 
 **Notebook:** `labTitanic.ipynb`
 
